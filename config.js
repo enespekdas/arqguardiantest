@@ -1,3 +1,5 @@
 const aws = "AKIAIOSFODNN7EXAMPLE"
 const password = "password123"
 const fake = "not_a_secret"
+const gga = "AKIAIOSFODNN711C6A"
+const bttkn = "eRlAJ5zgyktSwhWhv3Dp9UvtlkpU3q"
